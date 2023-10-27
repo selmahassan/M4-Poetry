@@ -10,4 +10,5 @@ Unfortunately, with the static implementation of my map, the visualizations does
 
 The data represented on the map is the total prison popuplation proportional to the population of each county in the U.S. so it is considering that not every state or county has the same population. 
 
+If you would like to run this locally, you should download all the files and put them into the same folder. Using VSCode, you can use the live server extension to run the index.html file.
 
